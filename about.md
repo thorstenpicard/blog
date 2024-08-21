@@ -6,4 +6,4 @@ permalink: /about/
 
 Ik schrijf over de bergen, mijn avonturen en mijn interesses. 
 
-![Screenshot](../assets/images/image1.png "Screenshot")
+![Screenshot](../assets/images/image1.png "Screenshot"){: width="250" }
